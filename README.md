@@ -1,3 +1,5 @@
+This Project is a sample of my work where I had wokred on a project to analyze Bank Data using Tableau.
+
 I developed this Financial Dashboard using Tableau, utilizing a sample dataset from a bank spanning from 2011 to 2022. 
 This dataset includes all customer complaints filed during this period, categorized by state.
 
